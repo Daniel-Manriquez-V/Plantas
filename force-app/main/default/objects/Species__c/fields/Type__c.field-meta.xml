@@ -11,9 +11,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Endeble</fullName>
+                <fullName>Edible</fullName>
                 <default>true</default>
-                <label>Endeble</label>
+                <label>Edible</label>
             </value>
             <value>
                 <fullName>Ornamental</fullName>
